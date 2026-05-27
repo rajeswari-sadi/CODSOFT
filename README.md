@@ -1,11 +1,12 @@
-# CODSOFT
-CodSoft Tech Internship-Machine Learning Tasks
-# Machine Learning Demo Projects
+# CODSOFT - Machine Learning Internship
 
-This repository contains three simple demo projects for learning classification using Python and scikit-learn.  
-Each project uses a synthetic dataset to demonstrate how machine learning models work.
+Note: Completed Task 1, Task 2, and Task 4 from the given 4 internship tasks.
 
-## Projects Included
+##  Tasks Completed
+### Task 1: Movie Genre Classification
+### Task 2: Credit Card Fraud Detection  
+### Task 4: Spam SMS Detection
+
 
 ### 1. Movie Genre Classification
 Predict the genre of a movie based on its plot description.  
@@ -17,7 +18,7 @@ Detect fraudulent transactions based on amount and time.
 Dataset: Synthetic numeric samples (100 transactions, 20% fraud).  
 Model: Random Forest Classifier.
 
-### 4. Spam Email Detection
+### 4. Spam  Detection
 Classify emails as Spam or Ham (not spam).  
 Dataset: Synthetic text samples (50 spam + 50 ham).  
 Model: CountVectorizer + Naive Bayes.
